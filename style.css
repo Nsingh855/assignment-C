@@ -1,0 +1,42 @@
+
+body{
+    width: 2500px;
+    height: 900px;
+    margin: 0 0;
+    background-color: rgb(39, 169, 250);
+
+}
+.box {
+   background-color: hsl(0, 0%, 100%);
+    width: 500px;
+    margin: 480px;
+    margin-top: 80px;
+    margin-left: 480px;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+    
+
+  }
+
+.box img{
+    border-radius: 50%;
+    margin-bottom: 0px;
+    
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+
+  }
+  .box h3{
+  text-align: center;
+
+
+  }
+  .box p{
+   text-align: center;
+
+    
+  }
